@@ -8,7 +8,6 @@ def create_simple_llm():
     
     return generator
 
-
 generator = create_simple_llm()
 
 prompt = "Brahvi is a "
